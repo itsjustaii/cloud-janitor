@@ -9,6 +9,21 @@ countdowns and savings, and lets you Extend, Stop or Delete an instance.
 
 Built as my Final Year Project.
 
+![Instances page with live TTL countdowns](docs/screenshots/instances.png)
+
+<details>
+<summary>More screenshots</summary>
+
+| Savings | Alerts |
+|---|---|
+| ![Savings page](docs/screenshots/savings.png) | ![Alerts page](docs/screenshots/alerts.png) |
+
+| Connect | Dark mode |
+|---|---|
+| ![Connect your AWS account](docs/screenshots/connect.png) | ![Instances page in dark mode](docs/screenshots/instances-dark.png) |
+
+</details>
+
 ## Run it
 
 Requires Node.js 18 or newer.
